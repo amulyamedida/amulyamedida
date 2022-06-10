@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amulyamedida
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning FullStack Web Development
 - 📫 How to reach me amulyamedida135@gmail.com
 
 <!---
